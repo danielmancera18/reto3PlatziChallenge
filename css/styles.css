@@ -26,6 +26,9 @@ main{
   width: 85%;
   margin: 0 auto;
 }
+.main-section{
+  width: 100%;
+}
 .header{
   width: 100%;
   margin: 6rem 0;
@@ -82,6 +85,10 @@ main{
   position: absolute;
   right: 2rem;
   bottom: 2rem;
+}
+footer p{
+  font-size: 1.8rem;
+  text-align: center;
 }
 @media (min-width: 375px){
   main{
